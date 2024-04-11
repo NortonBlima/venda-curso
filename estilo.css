@@ -30,7 +30,10 @@ body{
 }
 
 .titulo{
-   
+    font-size: 70px;
+    font-family: tahoma;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .destaque{
@@ -38,11 +41,25 @@ body{
     color: black;
     background-color: white;
     width: 400px;
-    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family: Arial;
     
 }
 
 .botão{
+    border: 2px solid white; /*tipode boradas: solid,dashed, dotted, double*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    font-size: 20px;
+    font font-family: arial;
+    text-decoration: none;
 
 }
 
